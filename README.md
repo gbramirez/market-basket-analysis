@@ -2,7 +2,7 @@
 <p>A Market Basket Analysis of commonly prescribed patient medications.</p>
 
 ## Business Question
-<p>In a data set of patient prescriptions, can Market Basket Analysis (MBA) be used to identify which medications are commonly prescribed together? Identifying prescription trends can help the organization keep an pharmacy properly stocked to increase patient satisfaction.</p>
+<p>In a Centers for Medicare and Medicaid Services data set, can Market Basket Analysis (MBA) be used to identify which medications are commonly prescribed together? Identifying prescription trends can help the organization keep an pharmacy properly stocked to increase patient satisfaction.</p>
 
 ## Goal
 <p>The goal of the data analysis is to use Market Basket Analysis to identify which prescriptions are commonly prescribed together.</p>
